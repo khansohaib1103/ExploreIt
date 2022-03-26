@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.myapplication.Adapter.DashboardAdapter;
-import com.example.myapplication.DashboardModel;
+import com.example.myapplication.Model.DashboardModel;
 import com.example.myapplication.R;
 
 import java.util.ArrayList;
